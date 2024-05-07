@@ -9,6 +9,7 @@ dependencies:
     - pyzmq
     - numpy
     - pyyaml=6.0.1
+    - pip
     - pip:
         - gym
         - pyglet
